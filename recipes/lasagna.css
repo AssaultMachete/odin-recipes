@@ -1,0 +1,42 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin: 0px;
+  padding: 0px;
+  color: beige;
+}
+
+.card {
+  width: 1000px;
+  background-color: black;
+  margin: auto;
+}
+
+.title {
+  padding-left: 20px;
+  padding-top: 1px;
+}
+
+.desc {
+  padding-left: 20px;
+  padding-top: 1px;
+}
+
+.ingrediants {
+  padding-left: 20px;
+  padding-top: 1px;
+}
+
+.steps {
+  padding-left: 20px;
+  padding-top: 1px;
+  padding-bottom: 5px;
+}
+
+h1 {
+  color: indianred;
+}
+
+h2 {
+  color: lightsalmon;
+}

@@ -1,0 +1,36 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: black;
+}
+.card {
+  width: 600px;
+  background-color: azure;
+  margin: auto;
+  padding: 1px;
+  border: 5px darkgray solid;
+}
+.title {
+  color: burlywood;
+  text-align: center;
+  background-color: cornsilk;
+  margin: 1px 150px 1px 150px;
+}
+
+.links {
+  align-content: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+a:hover {
+  color: burlywood;
+}
+
+a:active {
+  color: aquamarine;
+}

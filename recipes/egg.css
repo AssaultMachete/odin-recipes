@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #f4f8d3;
+  background-color: black;
+}
+
+.card {
+  width: 1000px;
+  margin: auto;
+  background-color: #123458;
+}
+
+.title {
+  padding-top: 5px;
+  padding-left: 15px;
+}
+
+.desc {
+  padding-top: 5px;
+  padding-left: 15px;
+}
+
+.ingredients {
+  padding-top: 5px;
+  padding-left: 15px;
+}
+
+.steps {
+  padding-top: 5px;
+  padding-left: 15px;
+  padding-bottom: 5px;
+}
+
+h1 {
+  color: peru;
+}
+
+h2 {
+  color: darkorange;
+}

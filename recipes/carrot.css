@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+  color: #efeeea;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.card {
+  width: 1000px;
+  margin: auto;
+  background-color: #273f4f;
+}
+
+.title {
+  padding: 5px 15px;
+}
+
+.desc {
+  padding: 5px 15px;
+}
+
+.ingredients {
+  padding: 5px 15px;
+}
+
+.steps {
+  padding: 5px 15px;
+}
+
+h1 {
+  color: #ea7300;
+}
+
+h2 {
+  color: #077a7d;
+}
